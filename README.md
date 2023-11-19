@@ -1,5 +1,5 @@
 # Sinatra example
-The objective of this task is to write an API with one GET endopoint.
+The objective of this task is to write an API with one GET endpoint.
 ## Requirements
 You are required to write an API with Sinatra that will contain the following endpoint:
 - GET /users
